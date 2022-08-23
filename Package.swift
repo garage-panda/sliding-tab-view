@@ -16,6 +16,6 @@ let package = Package(
         .target(
             name: "SlidingTabView",
             dependencies: [],
-            path: "Sources"),,
+            path: "Sources"),
     ]
 )
