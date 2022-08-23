@@ -1,12 +1,6 @@
-//
-//  SlidingTabView.swift
-//  mFactoring
-//
-//  Created by Vladimir Vladimirov on 13.07.22.
-//
-
 import SwiftUI
 
+@available(macOS 10.15, *)
 struct SlidingTabView : View {
     
     // MARK: Internal State
@@ -157,7 +151,7 @@ struct SlidingTabView : View {
             }
             .frame(width: geometry.size.width)
         }
-        .frame(height: UIConstants.slidingTabViewHeight)
+        .frame(height: 60)
     }
     
     // MARK: Private Helper
