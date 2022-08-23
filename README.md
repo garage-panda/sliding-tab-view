@@ -1,6 +1,8 @@
 # Sliding Tab View
 ## _Add as many tabs as you want and scroll through them_
 
+![Alt Text](https://media.giphy.com/media/0xHd5nIH2chdQ7MScF/giphy.gif)
+
 ## Installation
 Use [Swift Package Manager](https://swiftpackageregistry.com/garage-panda/sliding-tab-view) to install.
 
